@@ -1,0 +1,22 @@
+{
+  "name": "super-bluetooth-classic",
+  "version": "1.0.1",
+  "description": "Bluetooth Classic support for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtheretronerd/super-bluetooth-classic.git"
+  },
+  "keywords": [
+    "bluetooth"
+  ],
+  "author": "retronerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtheretronerd/super-bluetooth-classic/issues"
+  },
+  "homepage": "https://github.com/iamtheretronerd/super-bluetooth-classic#readme"
+}

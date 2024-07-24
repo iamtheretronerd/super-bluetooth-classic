@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.rusel.RCTBluetoothSerial.react-native-bluetooth-serial-merged_res-24:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.rusel.RCTBluetoothSerial.react-native-bluetooth-serial-appcompat-1.6.1-14:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.rusel.RCTBluetoothSerial.react-native-bluetooth-serial-merged_res-24:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.rusel.RCTBluetoothSerial.react-native-bluetooth-serial-appcompat-1.6.1-14:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
